@@ -11,6 +11,7 @@ body {
 }
 #messageContainer {
   height: 600px;
+  overflow-y: scroll;
 }
 .messageItem {
   width: 80%;
