@@ -12,4 +12,5 @@ const chat = {
     }
 
 }
-chat.init()
+
+chat.init();
